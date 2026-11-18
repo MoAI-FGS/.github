@@ -18,5 +18,8 @@ All of the Ministry's code repositories are private. Access is managed by the Mi
 
 - Website: [moa.gov.so](https://moa.gov.so)
 - ICT section: [ict@moa.gov.so](mailto:ict@moa.gov.so)
+- X: [@MOASomalia](https://x.com/MOASomalia)
+- Facebook: [MOASomalia](https://www.facebook.com/MOASomalia)
+- LinkedIn: [moasomalia](https://www.linkedin.com/in/moasomalia)
 
 To report a security issue, please read our [security policy](https://github.com/MoAI-FGS/.github/blob/main/SECURITY.md). Do not open a public issue.
