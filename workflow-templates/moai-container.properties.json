@@ -1,0 +1,7 @@
+{
+  "name": "MoAI container image",
+  "description": "Build a container image, push it privately to GitHub Container Registry, with SBOM and signed build provenance.",
+  "iconName": "octicon package",
+  "categories": ["Containers", "Dockerfile"],
+  "filePatterns": ["Dockerfile$"]
+}
