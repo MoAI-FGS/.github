@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a new feature or change
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What is needed and why
+    validations:
+      required: true
+  - type: input
+    id: requested-by
+    attributes:
+      label: Requested by
+      description: Department, programme or person who asked for it
+  - type: textarea
+    id: notes
+    attributes:
+      label: Other details

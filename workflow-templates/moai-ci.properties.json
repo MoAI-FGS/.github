@@ -1,0 +1,6 @@
+{
+  "name": "MoAI CI",
+  "description": "Ministry baseline CI: read-only token, pinned actions, timeouts.",
+  "iconName": "octicon shield-check",
+  "categories": ["Continuous integration"]
+}
