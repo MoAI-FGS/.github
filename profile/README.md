@@ -12,11 +12,11 @@ The Ministry leads Somalia's agricultural development, irrigation and food secur
 
 ## Access
 
-Most repositories in this organization are private. Access is managed by the Ministry's ICT department and is given only to Ministry staff and approved partners.
+All of the Ministry's code repositories are private. Access is managed by the Ministry's ICT section and is given only to Ministry staff and approved vendors.
 
 ## Contact
 
 - Website: [moa.gov.so](https://moa.gov.so)
-- ICT department: [ict@moa.gov.so](mailto:ict@moa.gov.so)
+- ICT section: [ict@moa.gov.so](mailto:ict@moa.gov.so)
 
 To report a security issue, please read our [security policy](https://github.com/MoAI-FGS/.github/blob/main/SECURITY.md). Do not open a public issue.
